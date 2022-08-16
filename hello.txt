@@ -1,3 +1,17 @@
 hi ...!
 hello
+<<<<<<< HEAD
 mick pai br
+=======
+
+nanii>>>!!
+For all the time that you rain on my parate 
+in all the club you get in using my name
+
+hello kity
+
+mick
+
+>>>>>>> 377e3649a7297443c1e95b05396ee4c3ee2a73af
+
+kkk pai br nor
