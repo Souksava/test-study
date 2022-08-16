@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-sinder
->>>>>>> 20664ed5248a1196f0b863f8c9db27e427fba309
+mickder
