@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+yedd doo
+=======
 mickder
 ktyyyyyyyy
 dfssfsfdsfsfsd
+<<<<<<< HEAD
 hello word
 sa baiy dee der go name name
+=======
+>>>>>>> bae061a6e669b6096866e386ce2da3b5dea01806
+>>>>>>> 51fed1620edf696a1a3d14d70cb699d1de14eabb
+gogogogo
